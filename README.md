@@ -17,7 +17,7 @@ My name is Sanyam — a 9-to-5 employee who lives for long rides on two wheels. 
 🎯 Goals: Grow as a well-rounded technologist by combining software development experience with finance-domain expertise
 </p>
 
-
+<br>
 <h2 align="left">🛠 I code with</h2>
 
 <div align="left">
@@ -65,7 +65,7 @@ My name is Sanyam — a 9-to-5 employee who lives for long rides on two wheels. 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
-
+<br>
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanyamj138&show_icons=true&theme=dracula" height="150" />
@@ -78,7 +78,7 @@ My name is Sanyam — a 9-to-5 employee who lives for long rides on two wheels. 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <!-- <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> -->
   </a>
   
   <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
