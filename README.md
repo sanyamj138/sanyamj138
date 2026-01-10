@@ -6,7 +6,7 @@
 My name is Sanyam — a 9-to-5 employee who lives for long rides on two wheels. 🏍️
 </p>
 
-
+<br>
 <h2 align="left">👨🏻‍💻 About me</h2>
 
 
