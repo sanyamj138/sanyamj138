@@ -21,8 +21,6 @@ My name is Sanyam — a 9-to-5 employee who lives for long rides on two wheels. 
 
 <h2 align="left">🛠 I code with</h2>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
