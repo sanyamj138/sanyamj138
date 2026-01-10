@@ -10,7 +10,3 @@
 
 <br>
 
-### ⚙️ GitHub Analytics 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanyamj138&theme=merko)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyamj138&theme=merko)](https://github.com/sanyamj138/github-readme-stats)  
