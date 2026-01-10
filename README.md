@@ -77,7 +77,7 @@ My name is Sanyam — a 9-to-5 employee who lives for long rides on two wheels. 
 <h2 align="left">📫 Connect with me</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/sanyam-jain-6732371bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -89,6 +89,7 @@ My name is Sanyam — a 9-to-5 employee who lives for long rides on two wheels. 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
 
 
 
