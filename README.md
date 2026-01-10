@@ -81,7 +81,7 @@ My name is Sanyam — a 9-to-5 employee who lives for long rides on two wheels. 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/https://www.instagram.com/sanyamj138/" target="_blank">
+  <a href="https://www.instagram.com/sanyamj138/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
