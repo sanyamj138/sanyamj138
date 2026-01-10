@@ -65,14 +65,14 @@ My name is Sanyam — a 9-to-5 employee who lives for long rides on two wheels. 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
-###
 
-<div align="center">
+
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanyamj138&show_icons=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyamj138&layout=compact&theme=dracula" height="150" />
-</div>
+</div> -->
 
-###
+
 
 <h2 align="left">📫 Connect with me</h2>
 
