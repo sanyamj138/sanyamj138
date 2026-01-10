@@ -1,15 +1,15 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+
 
 <p align="left">
 My name is Sanyam — a 9-to-5 employee who lives for long rides on two wheels. 🏍️
 </p>
-###
+
 
 <h2 align="left">👨🏻‍💻 About me</h2>
 
-###
+
 
 <p align="left">
 ✨ Creating bugs since my first Android app<br>
@@ -17,7 +17,6 @@ My name is Sanyam — a 9-to-5 employee who lives for long rides on two wheels. 
 🎯 Goals: Grow as a well-rounded technologist by combining software development experience with finance-domain expertise
 </p>
 
-###
 
 <h2 align="left">🛠 I code with</h2>
 
